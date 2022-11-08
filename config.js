@@ -19,7 +19,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281356563739','6285298456576','6285298456576']
+global.owner = ['94711449492','94711449492','94711449492']
 global.premium = ['6285298456576']
 global.packname = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
 global.author = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
